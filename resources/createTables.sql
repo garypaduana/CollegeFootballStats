@@ -155,7 +155,7 @@ CREATE TABLE Players
 	Home_State TEXT,
 	Home_Country TEXT,
 	Last_School TEXT,
-	PRIMARY KEY (Year, Player_Code, Team_Code),
+	PRIMARY KEY (Year, Player_Code, Team_Code, Class, Position),
 	FOREIGN KEY (Team_Code) REFERENCES Teams(Team_Code)
 );
 

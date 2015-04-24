@@ -70,7 +70,7 @@ public class StatsProcessor {
             	
                 for(File f : recurse(rootDir, ".+csv")){
                 	int year = findYearFromFile(f);
-                	System.out.println(f.getAbsolutePath());
+                	System.out.println(year + ", " + f.getAbsolutePath());
                 	String tableName = decideTableName(f);
                 	
                 	br = new BufferedReader(new FileReader(f));
@@ -93,15 +93,14 @@ public class StatsProcessor {
                 			String query = "INSERT INTO " + tableName +
                                 	" (" + cleanColumnNames(columnNames) + ") VALUES (" +
                     				columnNameMarkers(columnNames.split(",").length) + ")";
-                			System.out.println(query);
                 			pStatement = conn.prepareStatement(query);
-                			
-                			if(modifier == 1){
-                				pStatement.setInt(1, year);
-                			}
                 			lineNumber++;
                 			continue;
                 		}
+                		
+                		if(modifier == 1){
+            				pStatement.setInt(1, year);
+            			}
                 		
                 		CSVRecord parts = CSVParser.parse(line, CSVFormat.DEFAULT).getRecords().get(0);
                 		
