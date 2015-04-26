@@ -10,8 +10,8 @@ xml.Stadiums{
 	sql.eachRow("select distinct(name), Stadium_Code, City, State, Capacity, Surface, Year_Opened " +
 				"from stadiums order by name"){row ->
 		def years = []
-		sql.eachRow("select year from stadiums where Stadium_Code = ${row.Stadium_Code}"){year_row ->
-			years.add(year_row.year)
+		sql.eachRow("select year from stadiums where Stadium_Code = ${row.Stadium_Code}"){yearRow ->
+			years.add(yearRow.year)
 		}
 		xml.Stadium{
 			xml."Code"(row.Stadium_Code)
