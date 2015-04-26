@@ -233,7 +233,7 @@ public class StatsProcessor {
 	 * must match in order to be included.
 	 * @return
 	 */
-	public static List<File> recurse(File root, String filter){
+	private static List<File> recurse(File root, String filter){
 	    List<File> files = new ArrayList<File>();
 	    
 	    for(File f : root.listFiles()){
