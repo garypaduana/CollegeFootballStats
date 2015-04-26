@@ -1,0 +1,2102 @@
+<Stadiums>
+  <Stadium>
+    <Code>7</Code>
+    <Name>ASU Stadium</Name>
+    <City>Jonesboro</City>
+    <State>AR</State>
+    <Capacity>30964</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1974</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>17</Code>
+    <Name>AT&amp;T Park</Name>
+    <City>San Francisco</City>
+    <State>CA</State>
+    <Capacity>37000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>2000</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>88</Code>
+    <Name>Aggie Stadium</Name>
+    <City>Las Cruces</City>
+    <State>NM</State>
+    <Capacity>40000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1978</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>130</Code>
+    <Name>Alamodome</Name>
+    <City>San Antonio</City>
+    <State>TX</State>
+    <Capacity>65000</Capacity>
+    <Surface>AstroTurf</Surface>
+    <Year_Opened>1993</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>28</Code>
+    <Name>Alltel Stadium</Name>
+    <City>Jacksonville</City>
+    <State>FL</State>
+    <Capacity>73800</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1946</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>39</Code>
+    <Name>Aloha Stadium</Name>
+    <City>Honolulu</City>
+    <State>HI</State>
+    <Capacity>50000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1975</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>61</Code>
+    <Name>Alumni Stadium</Name>
+    <City>Chestnut Hill</City>
+    <State>MA</State>
+    <Capacity>44500</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1957</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>125</Code>
+    <Name>Amon Carter Stadium</Name>
+    <City>Fort Worth</City>
+    <State>TX</State>
+    <Capacity>46000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1929</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>160</Code>
+    <Name>Apogee Stadium</Name>
+    <City>Denton</City>
+    <State>TX</State>
+    <Capacity>30850</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>2011</Year_Opened>
+    <Years_With_Stats>2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>11</Code>
+    <Name>Arizona Stadium</Name>
+    <City>Tucson</City>
+    <State>AZ</State>
+    <Capacity>57803</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1929</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>11</Code>
+    <Name>Arizona Stadium</Name>
+    <City>Tucson</City>
+    <State>AZ</State>
+    <Capacity>57400</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1929</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>74</Code>
+    <Name>Arrowhead Stadium</Name>
+    <City>Kansas City</City>
+    <State>MO</State>
+    <Capacity>79451</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1972</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>108</Code>
+    <Name>Autzen Stadium</Name>
+    <City>Eugene</City>
+    <State>OR</State>
+    <Capacity>54000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1967</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>165</Code>
+    <Name>BBVA Compass Stadium</Name>
+    <City>Houston</City>
+    <State>TX</State>
+    <Capacity>22039</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>2012</Year_Opened>
+    <Years_With_Stats>2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>48</Code>
+    <Name>Ball State Stadium</Name>
+    <City>Munice</City>
+    <State>IN</State>
+    <Capacity>22500</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1967</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>9</Code>
+    <Name>Bank One Ballpark</Name>
+    <City>Phoenix</City>
+    <State>AZ</State>
+    <Capacity>42915</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1995</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>79</Code>
+    <Name>Bank of America Stadium</Name>
+    <City>Charlotte</City>
+    <State>NC</State>
+    <Capacity>73248</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1996</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>111</Code>
+    <Name>Beaver Stadium</Name>
+    <City>University Park</City>
+    <State>PA</State>
+    <Capacity>107282</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1960</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>27</Code>
+    <Name>Ben Hill Griffin Stadium at Florida Field</Name>
+    <City>Gainesville</City>
+    <State>FL</State>
+    <Capacity>88548</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1930</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>52</Code>
+    <Name>Bill Snyder Family</Name>
+    <City>Manhattan</City>
+    <State>KS</State>
+    <Capacity>50300</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1968</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>37</Code>
+    <Name>Bobby Dodd Stadium</Name>
+    <City>Atlanta</City>
+    <State>GA</State>
+    <Capacity>55000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1913</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>131</Code>
+    <Name>Bobcat Stadium</Name>
+    <City>San Marcos</City>
+    <State>TX</State>
+    <Capacity>15218</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1981</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>131</Code>
+    <Name>Bobcat Stadium</Name>
+    <City>San Marcos</City>
+    <State>TX</State>
+    <Capacity>30000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1981</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>104</Code>
+    <Name>Boone Pickens Stadium at Lewis Field</Name>
+    <City>Stillwater</City>
+    <State>OK</State>
+    <Capacity>53000</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1920</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>34</Code>
+    <Name>Bragg Memorial Stadium</Name>
+    <City>Tallahassee</City>
+    <State>FL</State>
+    <Capacity>25500</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1957</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>146</Code>
+    <Name>Bright House Networks Stadium</Name>
+    <City>Orlando</City>
+    <State>FL</State>
+    <Capacity>45301</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>2007</Year_Opened>
+    <Years_With_Stats>2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>42</Code>
+    <Name>Bronco Stadium</Name>
+    <City>Boise</City>
+    <State>ID</State>
+    <Capacity>30000</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1970</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>42</Code>
+    <Name>Bronco Stadium</Name>
+    <City>Boise</City>
+    <State>ID</State>
+    <Capacity>33610</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1970</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>42</Code>
+    <Name>Bronco Stadium</Name>
+    <City>Boise</City>
+    <State>ID</State>
+    <Capacity>37000</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1970</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>5</Code>
+    <Name>Bryant-Denny Stadium</Name>
+    <City>Tuscaloosa</City>
+    <State>AL</State>
+    <Capacity>92138</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1929</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>5</Code>
+    <Name>Bryant-Denny Stadium</Name>
+    <City>Tuscaloosa</City>
+    <State>AL</State>
+    <Capacity>101821</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1929</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>13</Code>
+    <Name>Bulldog Stadium</Name>
+    <City>Fresno</City>
+    <State>CA</State>
+    <Capacity>41000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1980</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>64</Code>
+    <Name>Byrd Stadium</Name>
+    <City>College Park</City>
+    <State>MD</State>
+    <Capacity>62000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1950</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>56</Code>
+    <Name>Cajun Field</Name>
+    <City>Lafayette</City>
+    <State>LA</State>
+    <Capacity>31000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1971</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>141</Code>
+    <Name>Camp Randall Stadium</Name>
+    <City>Madison</City>
+    <State>WI</State>
+    <Capacity>79500</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1917</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>161</Code>
+    <Name>Candlestick Park</Name>
+    <City>San Francisco</City>
+    <State>CA</State>
+    <Capacity>69732</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1960</Year_Opened>
+    <Years_With_Stats>2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>92</Code>
+    <Name>Carrier Dome</Name>
+    <City>Syracuse</City>
+    <State>NY</State>
+    <Capacity>49250</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1980</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>82</Code>
+    <Name>Carter Finley Stadium</Name>
+    <City>Raleigh</City>
+    <State>NC</State>
+    <Capacity>56800</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1966</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>140</Code>
+    <Name>CenturyLink Field</Name>
+    <City>Seattle</City>
+    <State>WA</State>
+    <Capacity>67000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>2002</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>9</Code>
+    <Name>Chase Field</Name>
+    <City>Phoenix</City>
+    <State>AZ</State>
+    <Capacity>42915</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1995</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>32</Code>
+    <Name>Citrus Bowl</Name>
+    <City>Orlando</City>
+    <State>FL</State>
+    <Capacity>65438</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1947</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>98</Code>
+    <Name>Cleveland Browns Stadium</Name>
+    <City>Cleveland</City>
+    <State>OH</State>
+    <Capacity>72300</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1999</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>98</Code>
+    <Name>Cleveland Stadium</Name>
+    <City>Cleveland</City>
+    <State>OH</State>
+    <Capacity>72300</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1999</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>164</Code>
+    <Name>Columbus Crew Stadium</Name>
+    <City>Columbus</City>
+    <State>OH</State>
+    <Capacity>22555</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1999</Year_Opened>
+    <Years_With_Stats>2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>53</Code>
+    <Name>Commonwealth Stadium</Name>
+    <City>Lexington</City>
+    <State>KY</State>
+    <Capacity>67606</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1973</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>121</Code>
+    <Name>Cotton Bowl</Name>
+    <City>Dallas</City>
+    <State>TX</State>
+    <Capacity>68252</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1932</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>155</Code>
+    <Name>Cowboys Stadium</Name>
+    <City>Arlington</City>
+    <State>TX</State>
+    <Capacity>80000</Capacity>
+    <Surface>SoftTop Turf System</Surface>
+    <Year_Opened>2009</Year_Opened>
+    <Years_With_Stats>2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>77</Code>
+    <Name>Davis Wade Stadium at Scott Field</Name>
+    <City>Starkville</City>
+    <State>MS</State>
+    <Capacity>55082</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1914</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>100</Code>
+    <Name>Dix Stadium</Name>
+    <City>Kent</City>
+    <State>OH</State>
+    <Capacity>29287</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1969</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>33</Code>
+    <Name>Doak Campbell Stadium</Name>
+    <City>Tallahassee</City>
+    <State>FL</State>
+    <Capacity>80000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1950</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>30</Code>
+    <Name>Dolphins Stadium</Name>
+    <City>Miami</City>
+    <State>FL</State>
+    <Capacity>75235</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1987</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>6</Code>
+    <Name>Donald W. Reynolds Razorback Stadium</Name>
+    <City>Fayetteville</City>
+    <State>AR</State>
+    <Capacity>72000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1938</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>6</Code>
+    <Name>Donald W. Reynolds Razorback Stadium</Name>
+    <City>Fayetteville</City>
+    <State>AR</State>
+    <Capacity>72000</Capacity>
+    <Surface>Sportexe PowerBlade</Surface>
+    <Year_Opened>1938</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>81</Code>
+    <Name>Dowdy Ficklen Stadium</Name>
+    <City>Greenville</City>
+    <State>NC</State>
+    <Capacity>43000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1963</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>96</Code>
+    <Name>Doyt Perry Stadium</Name>
+    <City>Bowling Green</City>
+    <State>OH</State>
+    <Capacity>28599</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1966</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>96</Code>
+    <Name>Doyt Perry Stadium</Name>
+    <City>Bowling Green</City>
+    <State>OH</State>
+    <Capacity>28599</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1966</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>149</Code>
+    <Name>Edward Jones Dome</Name>
+    <City>St. Louis</City>
+    <State>MO</State>
+    <Capacity>66000</Capacity>
+    <Surface>AstroTurf</Surface>
+    <Year_Opened>1995</Year_Opened>
+    <Years_With_Stats>2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>159</Code>
+    <Name>FAU Stadium</Name>
+    <City>Boca Raton</City>
+    <State>FL</State>
+    <Capacity>30000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>2011</Year_Opened>
+    <Years_With_Stats>2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>31</Code>
+    <Name>FIU Stadium</Name>
+    <City>Miami</City>
+    <State>FL</State>
+    <Capacity>17000</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1995</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>21</Code>
+    <Name>Falcon Stadium</Name>
+    <City>Colorado Springs</City>
+    <State>CO</State>
+    <Capacity>52123</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1962</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>21</Code>
+    <Name>Falcon Stadium</Name>
+    <City>Colorado Springs</City>
+    <State>CO</State>
+    <Capacity>52123</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1962</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>21</Code>
+    <Name>Falcon Stadium</Name>
+    <City>Colorado Springs</City>
+    <State>CO</State>
+    <Capacity>46692</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1962</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>73</Code>
+    <Name>Faurot Field</Name>
+    <City>Columbia</City>
+    <State>MO</State>
+    <Capacity>62000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1927</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>65</Code>
+    <Name>FedEx Field</Name>
+    <City>Landover</City>
+    <State>MD</State>
+    <Capacity>80116</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1997</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>132</Code>
+    <Name>Floyd Casey Stadium</Name>
+    <City>Waco</City>
+    <State>TX</State>
+    <Capacity>50000</Capacity>
+    <Surface>Prestige System</Surface>
+    <Year_Opened>1950</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>116</Code>
+    <Name>Floyd Stadium</Name>
+    <City>Murfreesboro</City>
+    <State>TN</State>
+    <Capacity>30788</Capacity>
+    <Surface>AstroTurf</Surface>
+    <Year_Opened>1998</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>20</Code>
+    <Name>Folsom Field</Name>
+    <City>Boulder</City>
+    <State>CO</State>
+    <Capacity>53245</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1924</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>67</Code>
+    <Name>Ford Field</Name>
+    <City>Detroit</City>
+    <State>MI</State>
+    <Capacity>65000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>2002</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>123</Code>
+    <Name>Fouts Field</Name>
+    <City>Denton</City>
+    <State>TX</State>
+    <Capacity>30500</Capacity>
+    <Surface>AstroTurf</Surface>
+    <Year_Opened>1951</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>101</Code>
+    <Name>Fred C. Yager Stadium</Name>
+    <City>Oxford</City>
+    <State>OH</State>
+    <Capacity>30012</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1983</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>38</Code>
+    <Name>Georgia Dome</Name>
+    <City>Atlanta</City>
+    <State>GA</State>
+    <Capacity>71250</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1992</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>122</Code>
+    <Name>Gerald Ford Stadium</Name>
+    <City>Dallas</City>
+    <State>TX</State>
+    <Capacity>32000</Capacity>
+    <Surface>A-Turf</Surface>
+    <Year_Opened>2000</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>85</Code>
+    <Name>Giants Stadium</Name>
+    <City>East Rutherford</City>
+    <State>NJ</State>
+    <Capacity>80242</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1976</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>163</Code>
+    <Name>Gillette Stadium</Name>
+    <City>Foxborough</City>
+    <State>MA</State>
+    <Capacity>68756</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>2002</Year_Opened>
+    <Years_With_Stats>2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>102</Code>
+    <Name>Glass Bowl</Name>
+    <City>Toledo</City>
+    <State>OH</State>
+    <Capacity>26248</Capacity>
+    <Surface>NexTurf</Surface>
+    <Year_Opened>1937</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>83</Code>
+    <Name>Groves Stadium</Name>
+    <City>Winston Salem</City>
+    <State>NC</State>
+    <Capacity>31500</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1968</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>83</Code>
+    <Name>Groves Stadium</Name>
+    <City>Winston Salem</City>
+    <State>NC</State>
+    <Capacity>31500</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1968</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>110</Code>
+    <Name>Heinz Field</Name>
+    <City>Pittsburgh</City>
+    <State>PA</State>
+    <Capacity>64450</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>2001</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>86</Code>
+    <Name>High Point Solutions Stadium</Name>
+    <City>Piscataway</City>
+    <State>NJ</State>
+    <Capacity>52454</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1994</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>23</Code>
+    <Name>Hughes Stadium</Name>
+    <City>Fort Collins</City>
+    <State>CO</State>
+    <Capacity>30000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1963</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>23</Code>
+    <Name>Hughes Stadium</Name>
+    <City>Fort Collins</City>
+    <State>CO</State>
+    <Capacity>30000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1963</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>45</Code>
+    <Name>Huskie Stadium</Name>
+    <City>De Kalb</City>
+    <State>IL</State>
+    <Capacity>30076</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1965</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>139</Code>
+    <Name>Husky Stadium</Name>
+    <City>Seattle</City>
+    <State>WA</State>
+    <Capacity>72500</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1920</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>60</Code>
+    <Name>Independence Stadium</Name>
+    <City>Shreveport</City>
+    <State>LA</State>
+    <Capacity>53000</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1976</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>7</Code>
+    <Name>Indian Stadium</Name>
+    <City>Jonesboro</City>
+    <State>AR</State>
+    <Capacity>30964</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1974</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>154</Code>
+    <Name>InfoCision Stadium-Summa Field</Name>
+    <City>Akron</City>
+    <State>OH</State>
+    <Capacity>30000</Capacity>
+    <Surface>ProGrass</Surface>
+    <Year_Opened>2009</Year_Opened>
+    <Years_With_Stats>2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>22</Code>
+    <Name>Invesco Field at Mile High</Name>
+    <City>Denver</City>
+    <State>CO</State>
+    <Capacity>76125</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>2001</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>28</Code>
+    <Name>Jacksonville Municipal Stadium</Name>
+    <City>Jacksonville</City>
+    <State>FL</State>
+    <Capacity>73800</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1946</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>142</Code>
+    <Name>Joan Edwards Stadium</Name>
+    <City>Huntington</City>
+    <State>WV</State>
+    <Capacity>38016</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1991</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>59</Code>
+    <Name>Joe Aillet Stadium</Name>
+    <City>Ruston</City>
+    <State>LA</State>
+    <Capacity>30000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1968</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>59</Code>
+    <Name>Joe Aillet Stadium</Name>
+    <City>Ruston</City>
+    <State>LA</State>
+    <Capacity>30000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1968</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>129</Code>
+    <Name>Jones SBC Stadium</Name>
+    <City>Lubbock</City>
+    <State>TX</State>
+    <Capacity>50000</Capacity>
+    <Surface>AstroTurf</Surface>
+    <Year_Opened>1947</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>129</Code>
+    <Name>Jones SBC Stadium</Name>
+    <City>Lubbock</City>
+    <State>TX</State>
+    <Capacity>50000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1947</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>1</Code>
+    <Name>Jordan-Hare Stadium</Name>
+    <City>Auburn</City>
+    <State>AL</State>
+    <Capacity>87451</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1939</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>70</Code>
+    <Name>Kelly/Shorts Stadium</Name>
+    <City>Mount Pleasant</City>
+    <State>MI</State>
+    <Capacity>30199</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1972</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>78</Code>
+    <Name>Kenan Stadium</Name>
+    <City>Chapel Hill</City>
+    <State>NC</State>
+    <Capacity>60000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1927</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>78</Code>
+    <Name>Kenan Stadium</Name>
+    <City>Chapel Hill</City>
+    <State>NC</State>
+    <Capacity>61836</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1927</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>43</Code>
+    <Name>Kibbie Dome</Name>
+    <City>Moscow</City>
+    <State>ID</State>
+    <Capacity>15820</Capacity>
+    <Surface>AstroTurf</Surface>
+    <Year_Opened>1975</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>41</Code>
+    <Name>Kinnick Stadium</Name>
+    <City>Iowa City</City>
+    <State>IA</State>
+    <Capacity>70000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1929</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>41</Code>
+    <Name>Kinnick Stadium</Name>
+    <City>Iowa City</City>
+    <State>IA</State>
+    <Capacity>70000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1929</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>120</Code>
+    <Name>Kyle Field</Name>
+    <City>College Station</City>
+    <State>TX</State>
+    <Capacity>82600</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1929</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>148</Code>
+    <Name>L.T. Smith Stadium</Name>
+    <City>Bowling Green</City>
+    <State>KY</State>
+    <Capacity>17500</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1968</Year_Opened>
+    <Years_With_Stats>2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>14</Code>
+    <Name>LA Coliseum</Name>
+    <City>Los Angeles</City>
+    <State>CA</State>
+    <Capacity>92000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1923</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>118</Code>
+    <Name>LP Field</Name>
+    <City>Nashville</City>
+    <State>TN</State>
+    <Capacity>67000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1999</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>134</Code>
+    <Name>LaVell Edwards Stadium</Name>
+    <City>Provo</City>
+    <State>UT</State>
+    <Capacity>65000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1964</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>3</Code>
+    <Name>Ladd-Peebles Stadium</Name>
+    <City>Mobile</City>
+    <State>AL</State>
+    <Capacity>40646</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1948</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>30</Code>
+    <Name>Land Shark Stadium</Name>
+    <City>Miami</City>
+    <State>FL</State>
+    <Capacity>75235</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1987</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>136</Code>
+    <Name>Lane Stadium</Name>
+    <City>Blacksburg</City>
+    <State>VA</State>
+    <Capacity>66233</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1965</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>2</Code>
+    <Name>Legion Field</Name>
+    <City>Birmingham</City>
+    <State>AL</State>
+    <Capacity>71594</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1927</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>2</Code>
+    <Name>Legion Field</Name>
+    <City>Birmingham</City>
+    <State>AL</State>
+    <Capacity>80601</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1927</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>2</Code>
+    <Name>Legion Field</Name>
+    <City>Birmingham</City>
+    <State>AL</State>
+    <Capacity>71594</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1927</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>115</Code>
+    <Name>Liberty Bowl</Name>
+    <City>Memphis</City>
+    <State>TN</State>
+    <Capacity>62380</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1965</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>109</Code>
+    <Name>Lincoln Financial Field</Name>
+    <City>Philadelphia</City>
+    <State>PA</State>
+    <Capacity>66000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>2003</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>26</Code>
+    <Name>Lockhart Stadium</Name>
+    <City>Fort Lauderdale</City>
+    <State>FL</State>
+    <Capacity>20450</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1959</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>58</Code>
+    <Name>Louisiana Superdome</Name>
+    <City>New Orleans</City>
+    <State>LA</State>
+    <Capacity>69082</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1975</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>162</Code>
+    <Name>Lucas Oil Stadium</Name>
+    <City>Indianapolis</City>
+    <State>IN</State>
+    <Capacity>63000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>2008</Year_Opened>
+    <Years_With_Stats>2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>63</Code>
+    <Name>M&amp;T Bank Stadium</Name>
+    <City>Baltimore</City>
+    <State>MD</State>
+    <Capacity>69084</Capacity>
+    <Surface>Sportexe Momentum</Surface>
+    <Year_Opened>1998</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>90</Code>
+    <Name>Mackay Stadium</Name>
+    <City>Reno</City>
+    <State>NV</State>
+    <Capacity>31000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1966</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>57</Code>
+    <Name>Malone Stadium</Name>
+    <City>Monroe</City>
+    <State>LA</State>
+    <Capacity>30427</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1978</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>57</Code>
+    <Name>Malone Stadium</Name>
+    <City>Monroe</City>
+    <State>LA</State>
+    <Capacity>30427</Capacity>
+    <Surface>ProPlay</Surface>
+    <Year_Opened>1978</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>138</Code>
+    <Name>Martin Stadium</Name>
+    <City>Pullman</City>
+    <State>WA</State>
+    <Capacity>40000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1972</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>12</Code>
+    <Name>Memorial Stadium</Name>
+    <City>Berkeley</City>
+    <State>CA</State>
+    <Capacity>73347</Capacity>
+    <Surface>Sportexe Momentum</Surface>
+    <Year_Opened>1923</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>44</Code>
+    <Name>Memorial Stadium</Name>
+    <City>Champaign</City>
+    <State>IL</State>
+    <Capacity>70000</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1924</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>47</Code>
+    <Name>Memorial Stadium</Name>
+    <City>Bloomington</City>
+    <State>IN</State>
+    <Capacity>52000</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1960</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>51</Code>
+    <Name>Memorial Stadium</Name>
+    <City>Lawrence</City>
+    <State>KS</State>
+    <Capacity>50250</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1921</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>84</Code>
+    <Name>Memorial Stadium</Name>
+    <City>Lincoln</City>
+    <State>NE</State>
+    <Capacity>81067</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1923</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>112</Code>
+    <Name>Memorial Stadium</Name>
+    <City>Clemson</City>
+    <State>SC</State>
+    <Capacity>86400</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1942</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>12</Code>
+    <Name>Memorial Stadium</Name>
+    <City>Berkeley</City>
+    <State>CA</State>
+    <Capacity>63000</Capacity>
+    <Surface>Sportexe Momentum</Surface>
+    <Year_Opened>1923</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>84</Code>
+    <Name>Memorial Stadium</Name>
+    <City>Lincoln</City>
+    <State>NE</State>
+    <Capacity>87091</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1923</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>103</Code>
+    <Name>Memorial Stadium at Owen Field</Name>
+    <City>Norman</City>
+    <State>OK</State>
+    <Capacity>81207</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1923</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>157</Code>
+    <Name>Metlife Stadium</Name>
+    <City>East Rutherford</City>
+    <State>NJ</State>
+    <Capacity>82566</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>2010</Year_Opened>
+    <Years_With_Stats>2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>72</Code>
+    <Name>Metrodome</Name>
+    <City>Minneapolis</City>
+    <State>MN</State>
+    <Capacity>65000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1982</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>93</Code>
+    <Name>Michie Stadium</Name>
+    <City>West Point</City>
+    <State>NY</State>
+    <Capacity>40000</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1924</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>66</Code>
+    <Name>Michigan Stadium</Name>
+    <City>Ann Arbor</City>
+    <State>MI</State>
+    <Capacity>107501</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1927</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>143</Code>
+    <Name>Mountaineer Field</Name>
+    <City>Morgantown</City>
+    <State>WV</State>
+    <Capacity>63500</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1980</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>143</Code>
+    <Name>Mountaineer Field</Name>
+    <City>Morgantown</City>
+    <State>WV</State>
+    <Capacity>63500</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1980</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>4</Code>
+    <Name>Movie Gallery Veterans Stadium</Name>
+    <City>Troy</City>
+    <State>AL</State>
+    <Capacity>30000</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1950</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>62</Code>
+    <Name>Navy-Marine Corps Memorial Stadium</Name>
+    <City>Annapolis</City>
+    <State>MD</State>
+    <Capacity>35000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1959</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>157</Code>
+    <Name>New Meadowlands Stadium</Name>
+    <City>East Rutherford</City>
+    <State>NJ</State>
+    <Capacity>82500</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>2010</Year_Opened>
+    <Years_With_Stats>2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>114</Code>
+    <Name>Neyland Stadium</Name>
+    <City>Knoxville</City>
+    <State>TN</State>
+    <Capacity>104079</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1921</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>114</Code>
+    <Name>Neyland Stadium</Name>
+    <City>Knoxville</City>
+    <State>TN</State>
+    <Capacity>102037</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1921</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>97</Code>
+    <Name>Nippert Stadium</Name>
+    <City>Cincinnati</City>
+    <State>OH</State>
+    <Capacity>38000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1916</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>49</Code>
+    <Name>Notre Dame Stadium</Name>
+    <City>South Bend</City>
+    <State>IN</State>
+    <Capacity>80795</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1930</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>24</Code>
+    <Name>Nottingham Field</Name>
+    <City>Greeley</City>
+    <State>CO</State>
+    <Capacity>6500</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1995</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>99</Code>
+    <Name>Ohio Stadium</Name>
+    <City>Columbus</City>
+    <State>OH</State>
+    <Capacity>101568</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1922</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>99</Code>
+    <Name>Ohio Stadium</Name>
+    <City>Columbus</City>
+    <State>OH</State>
+    <Capacity>102329</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1922</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>29</Code>
+    <Name>Orange Bowl</Name>
+    <City>Miami</City>
+    <State>FL</State>
+    <Capacity>72319</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1937</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>54</Code>
+    <Name>Papa John's Cardinal Stadium</Name>
+    <City>Louisville</City>
+    <State>KY</State>
+    <Capacity>42000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1998</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>95</Code>
+    <Name>Peden Stadium</Name>
+    <City>Athens</City>
+    <State>OH</State>
+    <Capacity>24000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1929</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>16</Code>
+    <Name>Qualcomm Stadium</Name>
+    <City>San Diego</City>
+    <State>CA</State>
+    <Capacity>71294</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1967</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>140</Code>
+    <Name>Qwest Field</Name>
+    <City>Seattle</City>
+    <State>WA</State>
+    <Capacity>67000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>2002</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>150</Code>
+    <Name>R.F.K. Stadium</Name>
+    <City>Washington</City>
+    <State>DC</State>
+    <Capacity>55672</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1961</Year_Opened>
+    <Years_With_Stats>2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>166</Code>
+    <Name>Ralph Wilson Stadium</Name>
+    <City>Orchard Park</City>
+    <State>NY</State>
+    <Capacity>73079</Capacity>
+    <Surface>A-Turf</Surface>
+    <Year_Opened>1973</Year_Opened>
+    <Years_With_Stats>2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>35</Code>
+    <Name>Raymond James Stadium</Name>
+    <City>Tampa</City>
+    <State>FL</State>
+    <Capacity>41441</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1998</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>128</Code>
+    <Name>Reliant Stadium</Name>
+    <City>Houston</City>
+    <State>TX</State>
+    <Capacity>69500</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>2002</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>25</Code>
+    <Name>Rentschler Field</Name>
+    <City>Hartford</City>
+    <State>CT</State>
+    <Capacity>40000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>2003</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>107</Code>
+    <Name>Reser Stadium</Name>
+    <City>Corvallis</City>
+    <State>OR</State>
+    <Capacity>35362</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1953</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>135</Code>
+    <Name>Rice Eccles Stadium</Name>
+    <City>Salt Lake City</City>
+    <State>UT</State>
+    <Capacity>45017</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1927</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>127</Code>
+    <Name>Rice Stadium</Name>
+    <City>Houston</City>
+    <State>TX</State>
+    <Capacity>70000</Capacity>
+    <Surface>AstroTurf</Surface>
+    <Year_Opened>1950</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>127</Code>
+    <Name>Rice Stadium</Name>
+    <City>Houston</City>
+    <State>TX</State>
+    <Capacity>70000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1950</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>75</Code>
+    <Name>Roberts Stadium</Name>
+    <City>Hattiesburg</City>
+    <State>MS</State>
+    <Capacity>33000</Capacity>
+    <Surface>Sportexe Momentum</Surface>
+    <Year_Opened>1976</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>126</Code>
+    <Name>Robertson Stadium</Name>
+    <City>Houston</City>
+    <State>TX</State>
+    <Capacity>32000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1946</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>106</Code>
+    <Name>Rogers Centre</Name>
+    <City>Toronto</City>
+    <State>ON</State>
+    <Capacity>65673</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1989</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>133</Code>
+    <Name>Romney Stadium</Name>
+    <City>Logan</City>
+    <State>UT</State>
+    <Capacity>30257</Capacity>
+    <Surface>SportsTurf</Surface>
+    <Year_Opened>1968</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>15</Code>
+    <Name>Rose Bowl</Name>
+    <City>Pasadena</City>
+    <State>CA</State>
+    <Capacity>91136</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1922</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>50</Code>
+    <Name>Ross-Ade Stadium</Name>
+    <City>West Lafayette</City>
+    <State>IN</State>
+    <Capacity>68000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1924</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>152</Code>
+    <Name>Roy Kidd Stadium</Name>
+    <City>Richmond</City>
+    <State>KY</State>
+    <Capacity>22000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1969</Year_Opened>
+    <Years_With_Stats>2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>119</Code>
+    <Name>Royal Memorial Stadium</Name>
+    <City>Austin</City>
+    <State>TX</State>
+    <Capacity>80082</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1924</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>119</Code>
+    <Name>Royal Memorial Stadium</Name>
+    <City>Austin</City>
+    <State>TX</State>
+    <Capacity>85123</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1924</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>119</Code>
+    <Name>Royal Memorial Stadium</Name>
+    <City>Austin</City>
+    <State>TX</State>
+    <Capacity>94113</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1924</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>119</Code>
+    <Name>Royal Memorial Stadium</Name>
+    <City>Austin</City>
+    <State>TX</State>
+    <Capacity>94113</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1924</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>94</Code>
+    <Name>Rubber Bowl</Name>
+    <City>Akron</City>
+    <State>OH</State>
+    <Capacity>31000</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1940</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>86</Code>
+    <Name>Rutgers Stadium</Name>
+    <City>Piscataway</City>
+    <State>NJ</State>
+    <Capacity>42000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1994</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>86</Code>
+    <Name>Rutgers Stadium</Name>
+    <City>Piscataway</City>
+    <State>NJ</State>
+    <Capacity>52454</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1994</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>46</Code>
+    <Name>Ryan Field</Name>
+    <City>Evanston</City>
+    <State>IL</State>
+    <Capacity>49256</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1926</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>71</Code>
+    <Name>Rynearson Stadium</Name>
+    <City>Ypsilanti</City>
+    <State>MI</State>
+    <Capacity>30200</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1969</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>17</Code>
+    <Name>SBC Park</Name>
+    <City>San Francisco</City>
+    <State>CA</State>
+    <Capacity>37000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>2000</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>89</Code>
+    <Name>Sam Boyd Stadium</Name>
+    <City>Las Vegas</City>
+    <State>NV</State>
+    <Capacity>36800</Capacity>
+    <Surface>TurfTech</Surface>
+    <Year_Opened>1971</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>36</Code>
+    <Name>Sanford Stadium</Name>
+    <City>Athens</City>
+    <State>GA</State>
+    <Capacity>92746</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1929</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>48</Code>
+    <Name>Scheumann Stadium</Name>
+    <City>Munice</City>
+    <State>IN</State>
+    <Capacity>22500</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1967</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>137</Code>
+    <Name>Scott Stadium</Name>
+    <City>Charlottesville</City>
+    <State>VA</State>
+    <Capacity>60000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1931</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>105</Code>
+    <Name>Skelly Stadium</Name>
+    <City>Tulsa</City>
+    <State>OK</State>
+    <Capacity>40385</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1930</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>147</Code>
+    <Name>Soldier Field</Name>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Capacity>61500</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1924</Year_Opened>
+    <Years_With_Stats>2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>18</Code>
+    <Name>Spartan Stadium</Name>
+    <City>San Jose</City>
+    <State>CA</State>
+    <Capacity>30000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1933</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>68</Code>
+    <Name>Spartan Stadium</Name>
+    <City>East Lansing</City>
+    <State>MI</State>
+    <Capacity>73000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1923</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>19</Code>
+    <Name>Stanford Stadium</Name>
+    <City>Stanford</City>
+    <State>CA</State>
+    <Capacity>85500</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1921</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>19</Code>
+    <Name>Stanford Stadium</Name>
+    <City>Stanford</City>
+    <State>CA</State>
+    <Capacity>50000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1921</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>124</Code>
+    <Name>Sun Bowl</Name>
+    <City>El Paso</City>
+    <State>TX</State>
+    <Capacity>50426</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1963</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>10</Code>
+    <Name>Sun Devil Stadium</Name>
+    <City>Tempe</City>
+    <State>AZ</State>
+    <Capacity>73000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1958</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>10</Code>
+    <Name>Sun Devil Stadium</Name>
+    <City>Tempe</City>
+    <State>AZ</State>
+    <Capacity>71706</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1958</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>30</Code>
+    <Name>Sun Life Stadium</Name>
+    <City>Miami</City>
+    <State>FL</State>
+    <Capacity>75235</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1987</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>153</Code>
+    <Name>TCF Bank Stadium</Name>
+    <City>Minneapolis</City>
+    <State>MN</State>
+    <Capacity>50805</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>2009</Year_Opened>
+    <Years_With_Stats>2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>55</Code>
+    <Name>Tiger Stadium</Name>
+    <City>Baton Rouge</City>
+    <State>LA</State>
+    <Capacity>91600</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1924</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>55</Code>
+    <Name>Tiger Stadium</Name>
+    <City>Baton Rouge</City>
+    <State>LA</State>
+    <Capacity>92400</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1924</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>40</Code>
+    <Name>Trice Stadium</Name>
+    <City>Ames</City>
+    <State>IA</State>
+    <Capacity>50000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1975</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>151</Code>
+    <Name>Tropicana Field</Name>
+    <City>St. Petersburg</City>
+    <State>FL</State>
+    <Capacity>45000</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1990</Year_Opened>
+    <Years_With_Stats>2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>91</Code>
+    <Name>UB Stadium</Name>
+    <City>Buffalo</City>
+    <State>NY</State>
+    <Capacity>31000</Capacity>
+    <Surface>Sportexe Momentum</Surface>
+    <Year_Opened>1993</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>87</Code>
+    <Name>University Stadium</Name>
+    <City>Albuquerque</City>
+    <State>NM</State>
+    <Capacity>40000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1960</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>145</Code>
+    <Name>University of Phoenix Stadium</Name>
+    <City>Glendale</City>
+    <State>AZ</State>
+    <Capacity>73000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>2006</Year_Opened>
+    <Years_With_Stats>2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>117</Code>
+    <Name>Vanderbilt Stadium</Name>
+    <City>Nashville</City>
+    <State>TN</State>
+    <Capacity>39773</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1922</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>76</Code>
+    <Name>Vaught-Hemingway Stadium</Name>
+    <City>Oxford</City>
+    <State>MS</State>
+    <Capacity>60580</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1915</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>69</Code>
+    <Name>Waldo Stadium</Name>
+    <City>Kalamazoo</City>
+    <State>MI</State>
+    <Capacity>30200</Capacity>
+    <Surface>NexTurf</Surface>
+    <Year_Opened>1937</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>69</Code>
+    <Name>Waldo Stadium</Name>
+    <City>Kalamazoo</City>
+    <State>MI</State>
+    <Capacity>30200</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1937</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>80</Code>
+    <Name>Wallace Wade Stadium</Name>
+    <City>Durham</City>
+    <State>NC</State>
+    <Capacity>33941</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1929</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>8</Code>
+    <Name>War Memorial Stadium</Name>
+    <City>Little Rock</City>
+    <State>AR</State>
+    <Capacity>53727</Capacity>
+    <Surface>AstroPlay</Surface>
+    <Year_Opened>1948</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>144</Code>
+    <Name>War Memorial Stadium</Name>
+    <City>Laramie</City>
+    <State>WY</State>
+    <Capacity>33500</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1950</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>8</Code>
+    <Name>War Memorial Stadium</Name>
+    <City>Little Rock</City>
+    <State>AR</State>
+    <Capacity>53727</Capacity>
+    <Surface>FieldTurf</Surface>
+    <Year_Opened>1948</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>113</Code>
+    <Name>Williams-Brice Stadium</Name>
+    <City>Columbia</City>
+    <State>SC</State>
+    <Capacity>80250</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1934</Year_Opened>
+    <Years_With_Stats>2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>156</Code>
+    <Name>Wrigley Field</Name>
+    <City>Chicago</City>
+    <State>IL</State>
+    <Capacity>46000</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>1914</Year_Opened>
+    <Years_With_Stats>2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+  <Stadium>
+    <Code>158</Code>
+    <Name>Yankee Stadium</Name>
+    <City>New York</City>
+    <State>NY</State>
+    <Capacity>52325</Capacity>
+    <Surface>Grass</Surface>
+    <Year_Opened>2009</Year_Opened>
+    <Years_With_Stats>2010, 2011, 2012, 2013</Years_With_Stats>
+  </Stadium>
+</Stadiums>
