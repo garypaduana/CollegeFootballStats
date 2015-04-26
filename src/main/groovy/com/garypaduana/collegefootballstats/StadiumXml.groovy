@@ -26,5 +26,7 @@ xml.Stadiums{
 	}
 }
 
+sql.close()
+
 File outFile = new File("./resources/Stadiums.xml")
 outFile.write(sw.toString())
